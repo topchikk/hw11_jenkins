@@ -1,0 +1,21 @@
+{
+  "base": {
+    "logo": "",
+    "project": "Telegram report",
+    "environment": "HOME",
+    "comment": "Первый тест уведомления",
+    "reportLink": "",
+    "language": "ru",
+    "allureFolder": "allure-report",
+    "enableChart": true,
+    "enableSuitesPublishing": true,
+    "durationFormat": "HH:mm:ss.SSS",
+    "customData": {}
+  },
+  "telegram": {
+    "token": "7377193674:AAHnMkdP7uIrpOdCfU_EkxPFgaZzOjcoBMI",
+    "chat": "1318265886",
+    "replyTo": "",
+    "templatePath": ""
+  }
+}
